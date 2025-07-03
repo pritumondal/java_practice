@@ -19,6 +19,11 @@ public class Main {
         System.out.println(washingMachine.type);
         System.out.println(washingMachine.price);
 
+        Electronics camera  = new Electronics("sony DSLR", "camera", 87000);
+        System.out.println(washingMachine.name);
+        System.out.println(washingMachine.type);
+        System.out.println(washingMachine.price);
+
 
 
     }
